@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c0397ca-8e15-47b8-8f7c-9c46245db1ab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Llist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QUICKSORT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubblesort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/countdigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/divisors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/duplicatestr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evenandodd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/findduplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gcd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inhertance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/insertionsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/insertmiddle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/largearray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lastdigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leftrotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocurrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/overriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/palindrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/perfect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/powerofnumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/removearray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverselinkedlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reversenumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortornotarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strrev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/substr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/towerofhonai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/towerofhonai2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zerosones.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2bJTxZQM5XLOa9HbiuneVVl7EdW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Llist1.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Strings.executor": "Run",
+    "Application.armstrong.executor": "Run",
+    "Application.arr.executor": "Run",
+    "Application.bubblesort.executor": "Run",
+    "Application.countdigits.executor": "Run",
+    "Application.divisors.executor": "Run",
+    "Application.duplicatestr.executor": "Run",
+    "Application.evenandodd.executor": "Run",
+    "Application.findduplicates.executor": "Run",
+    "Application.gayu.executor": "Run",
+    "Application.gcd.executor": "Run",
+    "Application.hash.executor": "Run",
+    "Application.hello.executor": "Run",
+    "Application.insertmiddle.executor": "Run",
+    "Application.largearray.executor": "Run",
+    "Application.lastdigit.executor": "Run",
+    "Application.leftrotate.executor": "Run",
+    "Application.linkedlist.executor": "Run",
+    "Application.linkedlist2.executor": "Run",
+    "Application.list1 (1).executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.ocurrence.executor": "Run",
+    "Application.palindrom.executor": "Run",
+    "Application.perfect.executor": "Run",
+    "Application.pow.executor": "Run",
+    "Application.powerofnumber.executor": "Run",
+    "Application.prime.executor": "Run",
+    "Application.recursion1.executor": "Run",
+    "Application.recursion2.executor": "Run",
+    "Application.recursion3.executor": "Run",
+    "Application.removearray.executor": "Run",
+    "Application.reverselinkedlist.executor": "Run",
+    "Application.reversenumber.executor": "Run",
+    "Application.sortornotarray.executor": "Run",
+    "Application.strrev.executor": "Run",
+    "Application.substr.executor": "Run",
+    "Application.towerofhonai.executor": "Run",
+    "Application.towerofhonai2.executor": "Run",
+    "Application.zerosones.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Recovery",
+    "onboarding.tips.debug.path": "C:/Users/muddu/java/java/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.zerosones">
+    <configuration name="findduplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="findduplicates" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="palindrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="palindrom" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="perfect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="perfect" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="removearray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="removearray" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zerosones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zerosones" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.zerosones" />
+      <item itemvalue="Application.findduplicates" />
+      <item itemvalue="Application.palindrom" />
+      <item itemvalue="Application.perfect" />
+      <item itemvalue="Application.removearray" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.zerosones" />
+        <item itemvalue="Application.removearray" />
+        <item itemvalue="Application.findduplicates" />
+        <item itemvalue="Application.perfect" />
+        <item itemvalue="Application.palindrom" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-48ba4555" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c0397ca-8e15-47b8-8f7c-9c46245db1ab" name="Changes" comment="" />
+      <created>1705932441883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705932441883</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/inhertance.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/substr.java</url>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/reverselinkedlist.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/recursion2.java</url>
+          <line>15</line>
+          <properties class="recursion2" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/towerofhonai.java</url>
+          <line>18</line>
+          <properties class="towerofhonai" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/strrev.java</url>
+          <line>11</line>
+          <properties class="strrev" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/removearray.java</url>
+          <line>19</line>
+          <properties class="removearray" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
